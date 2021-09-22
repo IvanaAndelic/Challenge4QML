@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>movies_video.xml</file>
+        <file>pause-outline.svg</file>
+        <file>play-circle-outline.svg</file>
+        <file>enter-outline.svg</file>
+        <file>exit-outline.svg</file>
+    </qresource>
+</RCC>
